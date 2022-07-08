@@ -1,0 +1,95 @@
+*{
+padding:0;
+margin:0;
+}
+.container{
+    background-image: linear-gradient(#FFF6B7,#F6416C);
+    height:1000px;
+    
+}
+#title{
+    color:#62625e;
+    text-align:center;
+    
+}
+#attemptCount{
+    font-size: 50px;
+    text-align:right;
+    color:rgb(23, 25, 25);
+    background-color: aqua;
+    padding-right: 150px;
+    margin-left: 1200px;
+    border-radius: 220px;
+
+}
+#heading{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #0b732c;
+}
+hr{
+    width:1000px;
+    height:2px;
+    border-color: rgb(87, 54, 197);
+    border-width: 5px;
+    margin-left: 250px;
+}
+header{
+    font-size:  50px;
+    color:rgb(75, 58, 204);
+    font-family:'Times New Roman', Times, serif;
+    margin-left: 1100px;
+}
+#box{
+    background-color:white;
+    height:300px;
+    width:400px;
+    text-align:center;
+    background-position: 30px;
+    margin-left: 550px;
+    border-radius: 50px;
+  
+}
+#checkButton{
+    height: 50px;
+    width: 70px;
+    font-size: 20px;
+}
+#attemptsLabel{
+    text-align: right;
+    color:rgb(88, 100, 100);
+    font-size: 50px;
+}
+#lose{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    color:antiquewhite;
+}
+#Win{
+    height:500px;
+    width:500px;
+    margin-left: 500px;
+}
+#winner{
+    color:#F6416C;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#lose{
+    height:500px;
+    width:500px;
+    margin-left: 500px;
+}
+
+#loser{
+    color:#F6416C;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+
+
+
+
